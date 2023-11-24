@@ -1,0 +1,25 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "This is todo app written in node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harpatcorp/todo.git"
+  },
+  "author": "Harshil Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harpatcorp/todo/issues"
+  },
+  "homepage": "https://github.com/harpatcorp/todo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
